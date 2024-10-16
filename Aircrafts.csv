@@ -1,0 +1,48 @@
+Aircraft,Origin,Type,Variant,In service,Notes
+Dassault Rafale,France,Multirole,DH,8,Nil
+HAL Tejas,India,Multirole,Mk.1,31,Nil
+Sukhoi Su-30MKI,Russia,Multirole,Su-30MKI Flanker H,259,12 more cleared.
+Mikoyan MiG-29,Soviet Union,Multirole,Fulcrum,53,Including 12 MiG-29UPG.
+Dassault Mirage 2000,France,Multirole,-2000H,37,Nil
+SEPECAT Jaguar,United Kingdom,Attack,IB,28,Used for training.
+Mikoyan-Gurevich MiG-21,Soviet Union,Interceptor,MiG-21 Bison,40,Being phased out.
+Embraer R-99,Brazil,AEW&C,Netra Mk1,3,equipped with a  Netra AEW&CS.
+Beriev A-50,Soviet Union,AEW&C,A-50EI,3,equipped with the EL/W-2090 radar. 2 more planned.
+Boeing 707,United States,SIGINT / ELINT,707-337C Phalcon,1,Operated by Aviation Research Centre (ARC) of R&AW.
+Global 5000,United States,SIGINT / ELINT,Nil,2,Nil
+Gulfstream III,United States,ELINT,SRA,3,Nil
+Gulfstream G100,Israel,surveillance,1125 Astra,2,Nil
+Ilyushin Il-78,Soviet Union,aerial refuelling,Il-78MKI,6,Nil
+Boeing 777,United States,VIP transport,777-300ER,2,Used as Air India One for presidential flight
+Boeing 737,United States,VIP transport,737-700,3,Nil
+Embraer Legacy 600,Brazil,VIP transport,Nil,4,Nil
+Boeing C-17,United States,strategic airlifter,Nil,11,Nil
+Ilyushin Il-76,Soviet Union,strategic airlifter,Il-76MD,17,Nil
+C-130J Super Hercules,United States,tactical airlifter,C-130J-30,12,Nil
+Airbus A321,Europe,transport,A321-200,4,Nil
+Antonov An-32,Soviet Union,tactical airlifter,Nil,103,53 are the 32RE variant
+EADS CASA C-295,Spain,tactical airlifter,C-295MW,5,51 more on order - HS 748 replacement
+Hawker Siddeley HS 748,United Kingdom,tactical airlifter,Nil,57,To be replaced by EADS CASA C-295
+Dornier Do 228,Germany,tactical airlifter,228-201,58,license built by HAL
+Boeing AH-64,United States,attack,AH-64E,22,Nil
+Mil Mi-24,Russia,attack,Mi-24/25/35,15,Nil
+HAL Prachand,India,attack,Nil,10,66 on order
+HAL Rudra,India,attack,Nil,16,50 on order.
+CH-47 Chinook,United States,transport,CH-47F,15,Nil
+Mil Mi-17,Russia,utility,Mi-17V-5,222,Nil
+HAL Dhruv,India,utility,Nil,95,Nil
+HAL Light Utility Helicopter,India,utility,Nil,Nil,6 on order
+Alouette III,France/India,liaison,Chetak,77,license-built by HAL. A fleet of around 120 aircraft.
+SA 315B Lama,France/India,utility,Cheetah,18,Nil
+BAE Hawk,United Kingdom,Advanced trainer,Hawk 132,101,Nil
+HAL Kiran,India,Intermediate trainer,Nil,77,Nil
+HAL HTT-40,India,Basic trainer,Nil,Nil,70 on order
+Pilatus PC-7,Switzerland,Basic trainer,Mk II,75,Nil
+Pipistrel Virus,Slovenia,Ab initio trainer,Nil,72,Nil
+IAI Heron,Israel,surveillance,Heron 1,47,Nil
+IAI Heron Mk 2,Israel,surveillance,Mk 2,4,Nil
+MQ-9 Reaper,United States,Surveillance/ Combat,SkyGuardian,8 on order,Nil
+IAI Searcher,Israel,surveillance,Mk. I / II,Nil,Nil
+ALS-50,India,loitering munition,Nil,100,Nil
+Kadet Loitering Aerial Munition,India,loitering munition,Nil,50+ on order,"Developed by DRDO and KDS
+Multiple variants; Weight - 15 to 120 kg; Warhead - 2 to 40 kg; Max. Endurance - 12 hrs; Max. Range - 150 to 300 km; Canister launched and vertical take-off and landing (VTOL) variants"
